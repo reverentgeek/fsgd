@@ -6,6 +6,6 @@
 ## Recommended Links and Articles
 
 * ["FSGD: A LeanKit Way to Work"](https://leankit.com/fsgd/)
-* TLDR; ["Objectively Measuring Good Enough"](http://developer.leankit.com/objectively-measuring-good-enough/) by Jim Cowart
+* TLDR; ["Objectively Measuring Good Enough"](https://leankit.com/blog/2015/06/objectively-measuring-good-enough/) by Jim Cowart
 * [Learn Kanban](https://leankit.com/learn/kanban/)
 * [Free Kanban Roadmap](http://info.leankit.com/kanban-roadmap) - How to get started in 5 easy steps
