@@ -1,7 +1,7 @@
 # FSGD and the Art of Delivering Value
 
 * Get the latest slides at [SpeakerDeck](https://speakerdeck.com/reverentgeek)
-* [About me](https://about.me/reverentgeek) | [reverentgeek.com](http://reverentgeek.com) | Twitter: [@reverentgeek](https://twitter.com/reverentgeek)
+* Website: [reverentgeek.com](https://reverentgeek.com) | Twitter: [@reverentgeek](https://twitter.com/reverentgeek)
 
 ## Recommended Links and Articles
 
